@@ -6,3 +6,4 @@ script that prints all the groups the current user is part of.
 5-script that adds execute permission to the owner of the file hello
 6-multiple permissions
 7-script that adds execution permission to the owner, the group owner and the other users
+8-james Bond
