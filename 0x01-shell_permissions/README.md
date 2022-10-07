@@ -10,3 +10,4 @@ script that prints all the groups the current user is part of.
 John Doe
 10-mirror
 11-directories permit
+12-make directory with permissions 751
