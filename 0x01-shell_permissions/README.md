@@ -12,3 +12,4 @@ John Doe
 11-directories permit
 12-make directory with permissions 751
 13-change group
+100 owner
