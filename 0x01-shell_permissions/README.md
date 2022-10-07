@@ -9,3 +9,4 @@ script that prints all the groups the current user is part of.
 8-james Bond
 John Doe
 10-mirror
+11-directories permit
