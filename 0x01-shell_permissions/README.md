@@ -13,3 +13,4 @@ John Doe
 12-make directory with permissions 751
 13-change group
 100 owner
+101 symbolic
