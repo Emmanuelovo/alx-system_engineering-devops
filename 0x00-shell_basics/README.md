@@ -1,1 +1,4 @@
-Print current working directory
+0-current working directory
+listing
+bring me home
+3-list files
